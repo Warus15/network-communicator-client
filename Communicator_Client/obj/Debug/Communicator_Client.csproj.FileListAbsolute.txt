@@ -1,0 +1,10 @@
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\bin\Debug\Communicator_Client.exe.config
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\bin\Debug\Communicator_Client.exe
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\bin\Debug\Communicator_Client.pdb
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\obj\Debug\Communicator_Client.csprojAssemblyReference.cache
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\obj\Debug\Communicator_Client.Form1.resources
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\obj\Debug\Communicator_Client.Properties.Resources.resources
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\obj\Debug\Communicator_Client.csproj.GenerateResource.cache
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\obj\Debug\Communicator_Client.csproj.CoreCompileInputs.cache
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\obj\Debug\Communicator_Client.exe
+D:\Szkoła\3 Klasa\Koszałka\Serwerowe\Communicator\Communicator_Client\Communicator_Client\obj\Debug\Communicator_Client.pdb
